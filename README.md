@@ -24,7 +24,7 @@ electron ./index.js
 
 see [config.md](docs/config.md)
 
-## Captureas
+## Screen Captures(core plugin)
 
 ### Plugin app
 
